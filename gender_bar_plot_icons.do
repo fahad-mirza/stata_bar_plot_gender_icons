@@ -1,3 +1,7 @@
+	* Install packages (One time only)
+	* ssc install palettes, replace
+	* ssc install colrspace, replace
+	* ssc install schemepack, replace
 
 	* Gender-wise performance of students in MCQs and CRQs (Grade 8)
 
