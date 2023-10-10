@@ -1,4 +1,4 @@
-# Stata Visualization using Icons in a Bar Plot
+# Stata Visualization using Gender Icons in a Bar Plot
 Generating a bar plot visualization by using Icons within Stata.  
 The Do-file for this visualization is attached.
 
